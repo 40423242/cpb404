@@ -57,20 +57,21 @@
 <v t="leo.20151002153241.1"><vh>@edit 2015cpnote2.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
-<v t="leo.20160115122442.1"><vh>@edit 40423242_cp_w1_p.html</vh></v>
-<v t="leo.20160115122455.1"><vh>@edit 40423242_cp_w2_p.html</vh></v>
-<v t="leo.20160115122501.1"><vh>@edit 40423242_cp_w3_p.html</vh></v>
-<v t="leo.20160115122507.1"><vh>@edit 40423242_cp_w4_p.html</vh></v>
-<v t="leo.20160115122512.1"><vh>@edit 40423242_cp_w5_p.html</vh></v>
-<v t="leo.20160115122517.1"><vh>@edit 40423242_cp_w6_p.html</vh></v>
-<v t="leo.20160115122524.1"><vh>@edit 40423242_cp_w7_p.html</vh></v>
-<v t="leo.20160115122529.1"><vh>@edit 40423242_cp_w8_p.html</vh></v>
-<v t="leo.20160115122535.1"><vh>@edit 40423242_cp_w9_p.html</vh></v>
-<v t="leo.20160115122540.1"><vh>@edit 40423242_cp_w11_p.html</vh></v>
-<v t="leo.20160115122546.1"><vh>@edit 40423242_cp_w12_p.html</vh></v>
-<v t="leo.20160115122552.1"><vh>@edit 40423242_cp_w13_p.html</vh></v>
-<v t="leo.20160115122558.1"><vh>@edit 40423242_cp_w14_p.html</vh></v>
-<v t="leo.20160115122605.1"><vh>@edit 40423242_cp_w15_p.html</vh></v>
+<v t="leo.20160115221549.1"><vh>@edit 40423242_cp_w1_p.html</vh></v>
+<v t="leo.20160115221617.1"><vh>@edit 40423242_cp_w2_p.html</vh></v>
+<v t="leo.20160115221624.1"><vh>@edit 40423242_cp_w3_p.html</vh></v>
+<v t="leo.20160115221629.1"><vh>@edit 40423242_cp_w4_p.html</vh></v>
+<v t="leo.20160115221636.1"><vh>@edit 40423242_cp_w5_p.html</vh></v>
+<v t="leo.20160115221643.1"><vh>@edit 40423242_cp_w6_p.html</vh></v>
+<v t="leo.20160115221656.1"><vh>@edit 40423242_cp_w7_p.html</vh></v>
+<v t="leo.20160115221702.1"><vh>@edit 40423242_cp_w8_p.html</vh></v>
+<v t="leo.20160115221708.1"><vh>@edit 40423242_cp_w9_p.html</vh></v>
+<v t="leo.20160115221716.1"><vh>@edit 40423242_cp_w11_p.html</vh></v>
+<v t="leo.20160115221728.1"><vh>@edit 40423242_cp_w12_p.html</vh></v>
+<v t="leo.20160115221735.1"><vh>@edit 40423242_cp_w13_p.html</vh></v>
+<v t="leo.20160115221742.1"><vh>@edit 40423242_cp_w14_p.html</vh></v>
+<v t="leo.20160115221752.1"><vh>@edit 40423242_cp_w15_p.html</vh></v>
+<v t="leo.20160115221758.1"><vh>@edit 40423242_cp_w16_p.html</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
 <v t="amd.20150913233943.2" a="E"><vh>html</vh>
 <v t="amd.20150913233943.3" a="E"><vh>head</vh>
